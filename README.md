@@ -1,3 +1,3 @@
-# nelson rules
+# Nelson rules
 
-Nelson Rules in python
+Nelson Rules in Python
